@@ -1,7 +1,7 @@
 # jquery-replica-html-css-only
 
 ## Languages used
-*HTML, CSS
+* HTML, CSS
 
 
 ## Description
